@@ -20,6 +20,9 @@
 }
 
 - (void)upLoadUserInfo{
+    
+    return;
+    
     if (_noUpLoad) {
         return;
     }
